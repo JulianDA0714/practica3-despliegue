@@ -5,7 +5,7 @@
 - Samuel Osorio Avendano
 - Alexander Sanmartin Arredondo
 - Juan Pablo Robledo Urrego
-- Fabi
+- Fabian Hincapie Castaneda
 
 ## Fechas de publicación
 - IIS: 28/04/2026
